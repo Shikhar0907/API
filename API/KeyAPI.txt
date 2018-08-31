@@ -1,0 +1,3 @@
+alphavantage = keyAPI = YQFZQT7LLOM4UX92
+github - client id - be6ccef3338558eb2cf6
+	client secret - 439f9ecd8e6a1cb006784ed7528765b5bdf86949
